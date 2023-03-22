@@ -1,6 +1,6 @@
 # 👋 About me..
 
-<p style="font-size: 16px">Hi there, my name is Wendell, but here in the digital world you can call me Sowodin, I'm a Full Stack Software Developer/Programmer/Software Engineer, I'm passionate about innovation and technology and my biggest dream is to be able to help humanity to overcome its biggest challenges, leaving a legacy of inspiration and motivation to the future generations. I also really want to create, develop and lead new business ideas (despite having a lot to learn yet 😄). I'm currently working with Full Stack Web Development, and I am guided by developing secure, robust, reliable and scalable systems.</p>
+<p style="font-size: 16px">Hi there, my name is Wendell, but here in the digital world you can call me Sowodin, I'm a Full Stack Software Developer/Programmer/Software Engineer, I'm passionate about innovation and technology and my biggest dream is to be able to help humanity to overcome its biggests challenges, leaving a legacy of inspiration and motivation to the future generations. I also really want to create, develop and lead new business ideas (despite having a lot to learn yet 😄). I'm currently working with Full Stack Web Development, and I am guided by developing secure, robust, reliable and scalable systems.</p>
 
 <br>
 <br>
