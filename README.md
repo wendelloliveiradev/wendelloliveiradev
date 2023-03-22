@@ -1,6 +1,6 @@
 # 👋 About me..
 
-<p style="font-size: 16px">Hi there, I'm a full stack software developer, I'm passionate about innovation and technology and my biggest dream is to be able to help humanity to overcome its biggest challenges, leaving a legacy of inspiration and motivation to the future generations. I also really want to create, develop and lead new business ideas (despite having a lot to learn yet 😄). I'm currently working with full stack software development, and I am guided by developing secure, robust, reliable and scalable systems.</p>
+<p style="font-size: 16px">Hi there, my name is Wendell, but here in the digital world you can call me Sowodin, I'm a Full Stack Software Developer/Programmer/Software Engineer, I'm passionate about innovation and technology and my biggest dream is to be able to help humanity to overcome its biggest challenges, leaving a legacy of inspiration and motivation to the future generations. I also really want to create, develop and lead new business ideas (despite having a lot to learn yet 😄). I'm currently working with Full Stack Web Development, and I am guided by developing secure, robust, reliable and scalable systems.</p>
 
 <br>
 <br>
@@ -42,9 +42,9 @@
 
 # 🤖 For the near future..
 
-* Rust
-* Deep Learning
-* Microservices Architecture
+* Rust Programming Language look so awesome ❤️
+* I really want to deepen my knowledge in Machine Learning 🦾
+* I want to be aware of the multiple threats and solution in Cybersecurity ⚔️
 <!--
 **sowodin/sowodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
