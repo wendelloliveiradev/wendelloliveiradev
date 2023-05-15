@@ -1,6 +1,16 @@
 # 👋 About me..
 
-<p style="font-size: 16px">Hi there, my name is Wendell, but here in the digital world you can call me Sowodin, I'm a Full Stack Software Developer/Programmer/Software Engineer, I'm passionate about innovation and technology and my biggest dream is to be able to help humanity to overcome its biggests challenges, leaving a legacy of inspiration and motivation to the future generations. I also really want to create, develop and lead new business ideas (despite having a lot to learn yet 😄). I'm currently working with Full Stack Web Development, and I am guided by developing secure, robust, reliable and scalable systems.</p>
+<p style="font-size: 16px"> Hi there, my name is Wendell, I am a brazilian Software Engineer
+            based in São José dos Campos - São Paulo. With over 3 years of
+            experience as Full Stack Software Developer. I am a passionate about
+            computers and technology, so I got a Science and Technology degree
+            with focus on Computer Science at the Federal University of São
+            Paulo, also aquired a little bit of international experience by
+            living in New Zealed for about one year (where I could improve my
+            english). I am guided by developing secure, robust, reliable and
+            scalable systems. I am looking foward to contribute to an
+            international company where I can improve my skills and learn new
+            ones.</p>
 
 <br>
 <br>
@@ -42,9 +52,10 @@
 
 # 🤖 For the near future..
 
-* Rust Programming Language look so awesome ❤️
-* I really want to deepen my knowledge in Machine Learning 🦾
-* I want to be aware of the multiple threats and solution in Cybersecurity ⚔️
+* Rust Programming Language awesome ❤️
+* A pure functional Programming Language ⚡
+* Deepen my knowledge in Machine Learning 🦾
+* Intersection between Machine Learning 🦾, Quantum Computing 🧠 and Cybersecurity ⚔️
 <!--
 **sowodin/sowodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
