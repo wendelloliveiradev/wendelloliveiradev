@@ -6,11 +6,9 @@
             computers and technology, so I got a Science and Technology degree
             with focus on Computer Science at the Federal University of São
             Paulo, also aquired a little bit of international experience by
-            living in New Zealed for about one year (where I could improve my
-            english). I am guided by developing secure, robust, reliable and
+            living in New Zealed for about one year. I am guided by developing secure, robust, reliable and
             scalable systems. I am looking foward to contribute to an
-            international company where I can improve my skills and learn new
-            ones.</p>
+            international company.</p>
 
 <br>
 <br>
@@ -34,7 +32,6 @@
 <img align="left" alt="C++" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Bash" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="VSCode" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br>
@@ -44,6 +41,8 @@
 
 # 🎓 I’m currently learning..
 
+* Next
+* NoSQL
 * Search Engine Optimization
 * Test Driven Development
 * Clean Architecture
@@ -52,7 +51,7 @@
 
 # 🤖 For the near future..
 
-* Rust Programming Language awesome ❤️
+* Rust Programming Language ❤️
 * A pure functional Programming Language ⚡
 * Deepen my knowledge in Machine Learning 🦾
 * Intersection between Machine Learning 🦾, Quantum Computing 🧠 and Cybersecurity ⚔️
