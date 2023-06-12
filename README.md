@@ -1,14 +1,6 @@
 # 👋 About me..
 
-<p style="font-size: 16px"> Hi there, my name is Wendell, I am a brazilian Software Engineer
-            based in São José dos Campos - São Paulo. With over 3 years of
-            experience as Full Stack Software Developer. I am a passionate about
-            computers and technology, so I got a Science and Technology degree
-            with focus on Computer Science at the Federal University of São
-            Paulo, also aquired a little bit of international experience by
-            living in New Zealed for about one year. I am guided by developing secure, robust, reliable and
-            scalable systems. I am looking foward to contribute to an
-            international company.</p>
+<p style="font-size: 16px">Hi there, my name is Wendell Oliveira, I am a brazilian Software Engineer based in São José dos Campos - São Paulo. With over 3 years of experience as Full Stack Software Developer. I am a passionate about computers and technology, so I got a Science and Technology degree with focus on Computer Science at the Federal University of São Paulo, also aquired a little bit of international experience by living in New Zealed for about one year. I am here to guide and build your way through the most difficult parts, when building state of the art web applications.</p>
 
 <br>
 <br>
@@ -43,7 +35,6 @@
 
 * Next
 * NoSQL
-* Search Engine Optimization
 * Test Driven Development
 * Clean Architecture
 * Design Thinking
@@ -51,6 +42,8 @@
 
 # 🤖 For the near future..
 
+* React Native 📱
+* Data Analysis 📈
 * Rust Programming Language ❤️
 * A pure functional Programming Language ⚡
 * Deepen my knowledge in Machine Learning 🦾
