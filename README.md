@@ -1,4 +1,6 @@
-<img align="middle" alt="sowodev" width="210px" src="/sowodev-logo.png" />
+<p align="center">
+    <img alt="sowodev" width="210px" src="/sowodev-logo.png" />
+</p>
 
 # 👋 About me..
 
