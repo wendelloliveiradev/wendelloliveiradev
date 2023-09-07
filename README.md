@@ -4,8 +4,8 @@
 
 <br>
 
-<div style="display: flex; flex-direction: row;" >
-    <img alt="hi" src="/imgs/hello.gif" />
+<div align="center" style="display: flex; flex-direction: row;" >
+    <img width="27px" alt="hi" src="/imgs/hello.gif" />
     <h1>&nbsp;&nbsp;&nbsp;Hello There!</h1>
 </div>
 
