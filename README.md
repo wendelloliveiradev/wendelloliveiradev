@@ -22,7 +22,7 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
 
 
-<img width="400px" alt="hi" src="./imgs/octocat-tools.gif" />
+<img width="350px" alt="hi" src="./imgs/octocat-tools.gif" />
 
 <table>
 <tr>
