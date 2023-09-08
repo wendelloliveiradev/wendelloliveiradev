@@ -1,7 +1,5 @@
 ![Alt text](imgs/sowodev-logo.webp)
 
-<br>
-
 <div align="center">
     <h1><img width="40px" alt="hi" src="./imgs/hello-pica.gif" />&nbsp;Hello There!</h1>
 </div>
@@ -12,36 +10,31 @@
 <img width="30%" alt="hi" src="./imgs/about.gif" />
 </div>
 
-<br>
-<br>
-
 <div align="center">
     <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
 <div width="100%" style="display: flex; flex-direction: row; align-items: center;">
 
-<div align="left" width="50%">
-<img width="400px" alt="hi" src="./imgs/octocat-tools.gif" />
-</div>
+<img width="300px" alt="hi" src="./imgs/octocat-tools.gif" />
 
-<div align="right" width="50%" style="display: flex; align-items: flex-start; align: center">
+
 <table>
 <tr>
-   <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+   <td  width="60">
       <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <p>Linux</p>
    </td>
     
-   <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+   <td  width="60">
       <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><p>Git</p>
    </td>
         
-   <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+   <td  width="60">
 <img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><p>TypeScript</p>
     </td>
 
-<td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+<td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><p>JavaScript</p>
     </td>
 
@@ -50,70 +43,64 @@
 </tr>
 
 <tr>
-    <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+    <td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />Linux
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />Git
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />TypeScript
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />Linux
     </td>
 </tr>
 
 <tr>
-    <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+    <td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />Linux
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />Git
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />TypeScript
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Linux
 
 </tr>
 
 <tr>
-<td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+<td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />Linux
     </td>
-    <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+    <td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>Linux
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>Git
     </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br>TypeScript
     </td>
 </tr>
 
 <tr>
-    <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+    <td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />Linux
     </td>
         </td>
-        <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
+        <td  width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />Linux
     </td>
 </tr>
 
 
 </table>
-</div>
 
 </div>
-
-<br>
-<br>
-<br>
-<br>
 
 <div align="center">
     <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improvements!</h1>
@@ -206,7 +193,7 @@
 <div style="display: flex; align-items: center;">
 <img width="275px" alt="lo-fi" src="./imgs/jujutsu-kaisen.gif" />
 
-<div>
+<div style="display: flex; flex-direction: column; align-items: left;">
 <a href="https://www.linkedin.com/in/wendelloliveiradasilva">
     <img alt="lo-fi" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
