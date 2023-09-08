@@ -19,7 +19,7 @@
     <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;">
 
 
 <img width="400px" alt="hi" src="./imgs/octocat-tools.gif" />
