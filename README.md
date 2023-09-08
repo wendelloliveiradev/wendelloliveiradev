@@ -19,26 +19,30 @@
     <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
-<div style="display: flex; flex-direction: row;">
+<div width="100%" style="display: flex; flex-direction: row; align-items: center;">
 
-<img width="350px" alt="hi" src="./imgs/octocat-tools.gif" />
+<div align="left" width="50%">
+<img width="400px" alt="hi" src="./imgs/octocat-tools.gif" />
+</div>
 
+<div align="right" width="50%" style="display: flex; align-items: flex-start; align: center">
 <table>
 <tr>
    <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
-      <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />Linux
+      <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <p>Linux</p>
    </td>
     
    <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
-      <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git
+      <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><p>Git</p>
    </td>
         
    <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
-<img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />TypeScript
+<img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><p>TypeScript</p>
     </td>
 
 <td style="display: flex; flex-direction: column; justify-content: center; align-items: center;"  width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />Linux
+<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><p>JavaScript</p>
     </td>
 
 
@@ -102,6 +106,7 @@
 
 
 </table>
+</div>
 
 </div>
 
