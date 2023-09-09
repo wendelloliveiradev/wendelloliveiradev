@@ -17,13 +17,9 @@
     <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
-<table style="width: 100%; border: none">
-   <tr style="border: none">
-   <td style="border: none">
-   <img width="400px" alt="hi" src="./imgs/octocat-tools.gif" />
-   </td>
-
-<td style="border: none">    
+<img align="left" style="width: 400px" alt="hi" src="./imgs/octocat-tools.gif" />
+  
+<p align="right">
    <table>
       <tr>
           <td width="60">
@@ -144,9 +140,7 @@
           </td>
       </tr>
    </table>
-    </td>
-   </tr>
-</table>
+</p>
 
 <!-- Improvements Section -->
 <div align="center">
