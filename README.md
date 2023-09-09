@@ -21,79 +21,77 @@
 
 <table>
 <tr>
-   <td  width="60">
-      <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
+      <img style="padding: 0;" align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <p>Linux</p>
    </td>
     
-   <td  width="60">
-      <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><p>Git</p>
+   <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
+      <img style="padding: 0;" align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><p>Git</p>
    </td>
         
-   <td  width="60">
-<img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><p>TypeScript</p>
+   <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
+<img style="padding: 0;" align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><p>TypeScript</p>
     </td>
 
-<td  width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><p>JavaScript</p>
+<td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
+<img style="padding: 0;" align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<p>JavaScript</p>
     </td>
-
-
-
 </tr>
 
 <tr>
-    <td  width="60">
+    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />Linux
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />Git
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />TypeScript
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />Linux
     </td>
 </tr>
 
 <tr>
-    <td  width="60">
+    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />Linux
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />Git
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />TypeScript
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Linux
 
 </tr>
 
 <tr>
-<td  width="60">
+<td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />Linux
     </td>
-    <td  width="60">
+    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>Linux
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>Git
     </td>
-        <td  width="60">
+        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br>TypeScript
     </td>
 </tr>
 
 <tr>
-    <td  width="60">
+    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
 <img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />Linux
     </td>
         </td>
         <td  width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />Linux
+<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />C++
     </td>
 </tr>
 
