@@ -5,11 +5,12 @@
     <h1><img width="40px" alt="hi" src="./imgs/hello-pica.gif" />&nbsp;Hello There!</h1>
 </div>
 
-<div style="display: flex; align-items: center;">
-   <p style="font-size: 18px; text-align: justify">My name is Wendell Oliveira da Silva, I am a Brazilian Software Engineer based in São José dos Campos - São Paulo. With over 3 years of experience as a Full Stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building relentless software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying high quality software. Solving hard problems and delivering high quality work, it’s my way of life. Contributing to making big dreams bigger reality is my life goal.</p>
-   
-   <img width="30%" alt="hi" src="./imgs/about.gif" />
-</div>
+<img align="right" width="30%" style="width: 30%" alt="hi" src="./imgs/about.gif" />
+<p align="left">My name is Wendell Oliveira da Silva, I am a Brazilian Software Engineer based in São José dos Campos - São Paulo. With over 3 years of experience as a Full Stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building relentless software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying high quality software. Solving hard problems and delivering high quality work, it’s my way of life. Contributing to making big dreams bigger reality is my life goal.</p>
+
+<br>
+<br>
+<br>
 
 <!-- TechStack Section -->
 <div align="center">
@@ -19,7 +20,7 @@
 <table style="width: 100%; border: none">
    <tr style="border: none">
    <td style="border: none">
-   <img alt="hi" src="./imgs/octocat-tools.gif" />
+   <img width="400px" alt="hi" src="./imgs/octocat-tools.gif" />
    </td>
 
 <td style="border: none">    
