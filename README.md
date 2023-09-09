@@ -16,33 +16,37 @@
     <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
-<div width="100%" style="display: flex; flex-direction: row; align-items: center;">
-   <img width="40%" alt="hi" src="./imgs/octocat-tools.gif" />
+<table style="width: 100%">
+   <tr>
+   <td>
+   <img alt="hi" src="./imgs/octocat-tools.gif" />
+   </td>
 
-   <table style="width: 55%">
+<td>    
+   <table>
       <tr>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-                  <p>Linux</p>
+                  <p style="margin-bottom: 0">Linux</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-                  <p>Git</p>
+                  <p style="margin-bottom: 0">Git</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-                  <p>TypeScript</p>
+                  <p style="margin-bottom: 0">TypeScript</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="javascript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-                  <p>JavaScript</p>
+                  <p style="margin-bottom: 0">JavaScript</p>
               </div>
           </td>
       </tr>
@@ -50,25 +54,25 @@
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="css" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-                  <p>CSS</p>
+                  <p style="margin-bottom: 0">CSS</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="react" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-                  <p>React</p>
+                  <p style="margin-bottom: 0">React</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="node" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-                  <p>NodeJS</p>
+                  <p style="margin-bottom: 0">NodeJS</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-                  <p>CSS</p>
+                  <p style="margin-bottom: 0">CSS</p>
               </div>
           </td>
       </tr>
@@ -76,25 +80,25 @@
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-                  <p>Docker</p>
+                  <p style="margin-bottom: 0">Docker</p>
               </div>
           </td>   
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="tailwind" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-                  <p>Tailwind</p>
+                  <p style="margin-bottom: 0">Tailwind</p>
               </div>
           </td>  
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="github" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-                  <p>Github</p>
+                  <p style="margin-bottom: 0">Github</p>
               </div>
           </td>  
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-                  <p>Figma</p>
+                  <p style="margin-bottom: 0">Figma</p>
               </div>
           </td>  
       </tr>
@@ -102,25 +106,25 @@
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="html" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-                  <p>HTML</p>
+                  <p style="margin-bottom: 0">HTML</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="java" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-                  <p>Java</p>
+                  <p style="margin-bottom: 0">Java</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-                  <p>Python</p>
+                  <p style="margin-bottom: 0">Python</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-                  <p>VSCode</p>
+                  <p style="margin-bottom: 0">VSCode</p>
               </div>
           </td>
       </tr>
@@ -128,18 +132,20 @@
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-                  <p>MySQL</p>
+                  <p style="margin-bottom: 0">MySQL</p>
               </div>
           </td>
           <td width="60">
               <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
                   <img style="padding: 0;" align="left" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-                  <p>C++</p>
+                  <p style="margin-bottom: 0">C++</p>
               </div>
           </td>
       </tr>
    </table>
-</div>
+    </td>
+   </tr>
+</table>
 
 <!-- Improvements Section -->
 <div align="center">
