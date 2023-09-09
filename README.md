@@ -16,13 +16,13 @@
     <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
-<table style="width: 100%">
-   <tr>
-   <td>
+<table style="width: 100%; border: none">
+   <tr style="border: none">
+   <td style="border: none">
    <img alt="hi" src="./imgs/octocat-tools.gif" />
    </td>
 
-<td>    
+<td style="border: none">    
    <table>
       <tr>
           <td width="60">
