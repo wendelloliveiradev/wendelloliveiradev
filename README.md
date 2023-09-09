@@ -1,105 +1,147 @@
 ![Alt text](imgs/sowodev-logo.webp)
 
+<!-- Hello Section -->
 <div align="center">
     <h1><img width="40px" alt="hi" src="./imgs/hello-pica.gif" />&nbsp;Hello There!</h1>
 </div>
 
 <div style="display: flex; align-items: center;">
-<p style="font-size: 18px; text-align: justify">My name is Wendell Oliveira da Silva, I am a Brazilian Software Engineer based in São José dos Campos - São Paulo. With over 3 years of experience as a Full Stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building relentless software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying high quality software. Solving hard problems and delivering high quality work, it’s my way of life. Contributing to making big dreams bigger reality is my life goal.</p>
-
-<img width="30%" alt="hi" src="./imgs/about.gif" />
+   <p style="font-size: 18px; text-align: justify">My name is Wendell Oliveira da Silva, I am a Brazilian Software Engineer based in São José dos Campos - São Paulo. With over 3 years of experience as a Full Stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building relentless software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying high quality software. Solving hard problems and delivering high quality work, it’s my way of life. Contributing to making big dreams bigger reality is my life goal.</p>
+   
+   <img width="30%" alt="hi" src="./imgs/about.gif" />
 </div>
 
+<!-- TechStack Section -->
 <div align="center">
     <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
 <div width="100%" style="display: flex; flex-direction: row; align-items: center;">
+   <img width="40%" alt="hi" src="./imgs/octocat-tools.gif" />
 
-<img width="300px" alt="hi" src="./imgs/octocat-tools.gif" />
-
-
-<table>
-<tr>
-   <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-      <img style="padding: 0;" align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <p>Linux</p>
-   </td>
-    
-   <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-      <img style="padding: 0;" align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><p>Git</p>
-   </td>
-        
-   <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img style="padding: 0;" align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><p>TypeScript</p>
-    </td>
-
-<td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img style="padding: 0;" align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<p>JavaScript</p>
-    </td>
-</tr>
-
-<tr>
-    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />Linux
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />Git
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />TypeScript
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />Linux
-    </td>
-</tr>
-
-<tr>
-    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />Linux
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />Git
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />TypeScript
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Linux
-
-</tr>
-
-<tr>
-<td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />Linux
-    </td>
-    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>Linux
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>Git
-    </td>
-        <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br>TypeScript
-    </td>
-</tr>
-
-<tr>
-    <td style="display: flex; flex-direction: column; justofy-items: center; align-items: center" width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />Linux
-    </td>
-        </td>
-        <td  width="60">
-<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />C++
-    </td>
-</tr>
-
-
-</table>
-
+   <table style="width: 55%">
+      <tr>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+                  <p>Linux</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+                  <p>Git</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+                  <p>TypeScript</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="javascript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+                  <p>JavaScript</p>
+              </div>
+          </td>
+      </tr>
+      <tr>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="css" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+                  <p>CSS</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="react" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                  <p>React</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="node" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+                  <p>NodeJS</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+                  <p>CSS</p>
+              </div>
+          </td>
+      </tr>
+      <tr>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+                  <p>Docker</p>
+              </div>
+          </td>   
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="tailwind" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+                  <p>Tailwind</p>
+              </div>
+          </td>  
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="github" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+                  <p>Github</p>
+              </div>
+          </td>  
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+                  <p>Figma</p>
+              </div>
+          </td>  
+      </tr>
+      <tr>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="html" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+                  <p>HTML</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="java" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+                  <p>Java</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+                  <p>Python</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+                  <p>VSCode</p>
+              </div>
+          </td>
+      </tr>
+      <tr>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+                  <p>MySQL</p>
+              </div>
+          </td>
+          <td width="60">
+              <div style="display: flex; flex-direction: column; justify-items: center; align-items: center">
+                  <img style="padding: 0;" align="left" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+                  <p>C++</p>
+              </div>
+          </td>
+      </tr>
+   </table>
 </div>
 
+<!-- Improvements Section -->
 <div align="center">
     <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improvements!</h1>
 </div>
@@ -182,6 +224,8 @@
 
 </div>
 
+
+<!-- GetInTouch Section -->
 <div align="center">
 
 <h1><img width="40px" alt="hi" src="./imgs/message.gif" />&nbsp;Get In Touch!</h1>
@@ -201,7 +245,6 @@
 </a>
 </div>
 </div>
-
 
 <!--
 **sowodin/sowodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
