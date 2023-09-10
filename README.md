@@ -9,8 +9,6 @@
 <p align="left">My name is Wendell Oliveira da Silva, I am a Brazilian Software Engineer based in São José dos Campos - São Paulo. With over 3 years of experience as a Full Stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building relentless software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying high quality software. Solving hard problems and delivering high quality work, it’s my way of life. Contributing to making big dreams bigger reality is my life goal.</p>
 
 <br>
-<br>
-<br>
 
 <!-- TechStack Section -->
 <div align="center">
@@ -110,12 +108,10 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <!-- Improvements Section -->
 <div align="center">
-   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improvements!</h1>
+   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improving!</h1>
 </div>
 
 <img align="right" width="475px" height="350px" alt="lo-fi" src="./imgs/learning.gif">
@@ -181,12 +177,10 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <!-- GetInTouch Section -->
 <div  align="center">
-   <h1><img width="40px" alt="hi" src="./imgs/message.gif" />&nbsp;Get In Touch!</h1>
+   <h1><img width="40px" alt="hi" src="./imgs/hello.gif" />&nbsp;Get In Touch!</h1>
 </div>
 
 <img align="left" width="275px" alt="lo-fi" src="./imgs/jujutsu-kaisen.gif" />
