@@ -21,11 +21,11 @@
    <table>
       <tr>
           <td width="60">
-               <div align="center"><img align="center" alt="react" width="50" height="50" src="https://techstack-generator.vercel.app/react-icon.svg" />React</div>
-          </td>
-          <td width="60">
                <div align="center"><img align="center" alt="next" width="50" height="50" src="https://skillicons.dev/icons?i=next" />Next</div>
           </td>          
+          <td width="60">
+               <div align="center"><img align="center" alt="react" width="50" height="50" src="https://techstack-generator.vercel.app/react-icon.svg" />React</div>
+          </td>
           <td width="60">
                <div align="center"><img align="center" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />Nest</div>
           </td>
