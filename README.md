@@ -89,6 +89,9 @@
       </tr>
       <tr>         
           <td width="60">
+               <div align="center"><img align="center" alt="typeorm" width="50" height="50" src="./imgs/typeorm.svg" />TypeORM</div>
+          </td>          
+          <td width="60">
                <div align="center"><img align="center" alt="vite" width="50" height="50" src="https://skillicons.dev/icons?i=vite" />Vite</div>
           </td> 
           <td width="60">
@@ -97,9 +100,6 @@
           <td width="60">
                <div align="center"><img align="center" alt="figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Figma</div>
           </td>
-          <td width="60">
-               <div align="center"><img align="center" alt="bootstrap" width="50" height="50" src="https://skillicons.dev/icons?i=bootstrap" />Bootstrap</div>
-          </td>          
           <td width="60">
                <div align="center"><img align="center" alt="prettier" width="50" height="50" src="https://techstack-generator.vercel.app/prettier-icon.svg" />Prettier</div>
           </td>                                  
@@ -120,7 +120,17 @@
    <table>
       <tr>
           <td>
-              👉 GraphQL
+              👉 GraphQL / tRPC / gRPC
+          </td>
+      </tr>
+      <tr>
+          <td>
+              👉 NGINX
+          </td>
+      </tr>
+      <tr>
+          <td>
+              👉 ELK Stack
           </td>
       </tr>
       <tr>
