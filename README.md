@@ -150,7 +150,7 @@
       </tr>
       <tr>
           <td>
-              👉 Cloud Services
+              👉 Cloud Services (GCP)
           </td>
       </tr>
       <tr>
