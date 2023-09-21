@@ -5,7 +5,7 @@
     <h1><img width="40px" alt="hi" src="./imgs/hello-pica.gif" />&nbsp;Hello There!</h1>
 </div>
 
-<img align="right" style="width: 234px; height: 214px" alt="hi" src="./imgs/about.gif" />
+<img align="right" style="width: 140px; height: 130px" alt="hi" src="./imgs/about.gif" />
 <p align="left">I am a Brazilian Software Engineer based in São Paulo - Brazil. With over 3 years of experience as a Full Stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building high quality software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying state-of-the-art web applications.</p>
 
 <br>
