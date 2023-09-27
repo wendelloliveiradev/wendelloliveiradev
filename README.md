@@ -135,6 +135,11 @@
       </tr>
       <tr>
           <td>
+              👉 PostgreSQL
+          </td>
+      </tr>
+      <tr>
+          <td>
              👉 Test Driven Development
           </td>
       </tr>
@@ -160,7 +165,7 @@
       </tr>
       <tr>
           <td>
-              👉 Data Analysis 📈
+              👉 Embedded Systems 🛰️
           </td>
       </tr>
       <tr>
