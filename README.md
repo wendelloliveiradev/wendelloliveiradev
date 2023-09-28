@@ -2,13 +2,7 @@
 
 <!-- Hello Section -->
 <div align="center">
-<h1 align='center'>
-
-![picapica](imgs/hello-pica.gif)
-
-<img width="40px" alt="hi" src="./imgs/hello-pica.gif" />
-
-&nbsp;Hello There!
+<h1 align='center'><img alt='pica' src='./imgs/hello-pica.gif' width='40px' />&nbsp;Hello There!
 </h1>
 </div>
 
@@ -19,7 +13,7 @@
 
 <!-- TechStack Section -->
 <div align="center">
-    <h2><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h2>
+    <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
 </div>
 
 <img align="left" style="width: 400px" alt="hi" src="./imgs/octocat-tools.gif" />
@@ -118,7 +112,7 @@
 
 <!-- Improvements Section -->
 <div align="center">
-   <h2><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improving!</h2>
+   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improving!</h1>
 </div>
 
 <img align="right" width="475px" height="350px" alt="lo-fi" src="./imgs/learning.gif">
@@ -203,7 +197,7 @@
 <!-- GetInTouch Section -->
 <div  align="center">
 
-   <h2><img width="40px" alt="hi" src="./imgs/hello.gif" />&nbsp;Get In Touch!</h2>
+   <h1><img width="40px" alt="hi" src="./imgs/hello.gif" />&nbsp;Get In Touch!</h1>
 </div>
 
 <img align="left" width="275px" alt="lo-fi" src="./imgs/jujutsu-kaisen.gif" />
