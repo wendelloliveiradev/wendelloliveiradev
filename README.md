@@ -4,6 +4,8 @@
 <div align="center">
 <h1 align='center'>
 
+![picapica](imgs/hello-pica.gif)
+
 <img width="40px" alt="hi" src="./imgs/hello-pica.gif" />
 
 &nbsp;Hello There!
