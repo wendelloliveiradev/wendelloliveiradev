@@ -2,10 +2,7 @@
 
 <!-- Hello Section -->
 <div align="center">
-
-![picachu](imgs/hello-pica.gif)
-
-<h2>&nbsp;Hello There!</h2>
+<h2><img width="40px" alt="hi" src="imgs/hello-pica.gif" />&nbsp;Hello There!</h2>
 </div>
 
 <img align="right" style="width: 140px; height: 130px" alt="hi" src="./imgs/about.gif" />
