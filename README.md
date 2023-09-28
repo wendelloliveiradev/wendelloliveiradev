@@ -2,7 +2,7 @@
 
 <!-- Hello Section -->
 <div align="center">
-    <h1><img width="40px" alt="hi" src="./imgs/hello-pica.gif" />&nbsp;Hello There!</h1>
+    <h2><img width="40px" alt="hi" src="./imgs/hello-pica.gif" />&nbsp;Hello There!</h2>
 </div>
 
 <img align="right" style="width: 140px; height: 130px" alt="hi" src="./imgs/about.gif" />
@@ -12,7 +12,7 @@
 
 <!-- TechStack Section -->
 <div align="center">
-    <h1><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h1>
+    <h2><img width="40px" alt="hi" src="./imgs/tech-stack.gif" />&nbsp;Tech Stack!</h2>
 </div>
 
 <img align="left" style="width: 400px" alt="hi" src="./imgs/octocat-tools.gif" />
@@ -111,7 +111,7 @@
 
 <!-- Improvements Section -->
 <div align="center">
-   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improving!</h1>
+   <h2><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improving!</h2>
 </div>
 
 <img align="right" width="475px" height="350px" alt="lo-fi" src="./imgs/learning.gif">
@@ -170,12 +170,12 @@
       </tr>
       <tr>
           <td>
-              👉 Rust Programming Language ❤️
+              👉 Rust Programming Language ⚡
           </td>
       </tr>
       <tr>
           <td>
-              👉 A pure functional Programming Language ⚡
+              👉 A pure functional Programming Language ❤️
           </td>
       </tr>
       <tr>
@@ -195,7 +195,7 @@
 
 <!-- GetInTouch Section -->
 <div  align="center">
-   <h1><img width="40px" alt="hi" src="./imgs/hello.gif" />&nbsp;Get In Touch!</h1>
+   <h2><img width="40px" alt="hi" src="./imgs/hello.gif" />&nbsp;Get In Touch!</h2>
 </div>
 
 <img align="left" width="275px" alt="lo-fi" src="./imgs/jujutsu-kaisen.gif" />
