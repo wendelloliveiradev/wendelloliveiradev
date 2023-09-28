@@ -2,7 +2,7 @@
 
 <!-- Hello Section -->
 <div align="center">
-<h1 align='center' style="display: flex; align-items: center; justify-content: center;">
+<h1 align='center'>
 
 <img width="40px" alt="hi" src="./imgs/hello-pica.gif" />
 
