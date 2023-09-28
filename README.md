@@ -2,7 +2,12 @@
 
 <!-- Hello Section -->
 <div align="center">
-<img width="40px" alt="hi" src="imgs/hello-pica.gif" /><h1>&nbsp;Hello There!</h1>
+<h1 align='center' style="display: flex; align-items: center; justify-content: center;">
+
+<img width="40px" alt="hi" src="./imgs/hello-pica.gif" />
+
+&nbsp;Hello There!
+</h1>
 </div>
 
 <img align="right" style="width: 140px; height: 130px" alt="hi" src="./imgs/about.gif" />
