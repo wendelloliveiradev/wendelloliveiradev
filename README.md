@@ -141,6 +141,11 @@
       </tr>
       <tr>
           <td>
+              👉 Serverless / Terraform / Ansible
+          </td>
+      </tr>
+      <tr>
+          <td>
              👉 Test Driven Development
           </td>
       </tr>
