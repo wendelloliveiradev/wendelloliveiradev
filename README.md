@@ -146,6 +146,11 @@
       </tr>
       <tr>
           <td>
+              👉 Kubernetes
+          </td>
+      </tr>      
+      <tr>
+          <td>
              👉 Test Driven Development
           </td>
       </tr>
