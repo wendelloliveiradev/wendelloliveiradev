@@ -199,6 +199,11 @@
               👉 Intersection between Machine Learning 🦾,<br> Quantum Computing 🧠 and Cybersecurity ⚔️
           </td>
       </tr>
+      <tr>
+          <td>
+              👉 Soft Skills 😃
+          </td>
+      </tr>      
    </table>
 </div>
 
