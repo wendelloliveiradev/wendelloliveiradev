@@ -151,9 +151,14 @@
       </tr>      
       <tr>
           <td>
-             👉 Test Driven Development
+             👉 TDD - Test Driven Development
           </td>
       </tr>
+      <tr>
+          <td>
+             👉 DDD - Domain Driven Development
+          </td>
+      </tr>      
       <tr>
           <td>
               👉 Clean Architecture
