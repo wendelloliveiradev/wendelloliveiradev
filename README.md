@@ -148,7 +148,12 @@
           <td>
               👉 Kubernetes
           </td>
-      </tr>      
+      </tr> 
+      <tr>
+          <td>
+              👉 Networking
+          </td>
+      </tr>           
       <tr>
           <td>
              👉 TDD - Test Driven Development
