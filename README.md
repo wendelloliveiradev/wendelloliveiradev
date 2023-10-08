@@ -181,6 +181,11 @@
       </tr>
       <tr>
           <td>
+              👉 Automation Scripting
+          </td>
+      </tr>
+      <tr>
+          <td>
               👉 React Native 📱
           </td>
       </tr>
