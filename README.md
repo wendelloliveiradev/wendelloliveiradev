@@ -171,11 +171,6 @@
       </tr>
       <tr>
           <td>
-              👉 Design Thinking
-          </td>
-      </tr>
-      <tr>
-          <td>
               👉 Cloud Services (GCP)
           </td>
       </tr>
@@ -213,12 +208,7 @@
           <td>
               👉 Intersection between Machine Learning 🦾,<br> Quantum Computing 🧠 and Cybersecurity ⚔️
           </td>
-      </tr>
-      <tr>
-          <td>
-              👉 Soft Skills 😃
-          </td>
-      </tr>      
+      </tr>   
    </table>
 </div>
 
