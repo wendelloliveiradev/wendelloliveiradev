@@ -156,12 +156,12 @@
       </tr>           
       <tr>
           <td>
-             👉 TDD - Test Driven Development
+             👉 TDD - Test-Driven Development
           </td>
       </tr>
       <tr>
           <td>
-             👉 DDD - Domain Driven Development
+             👉 DDD - Domain-Driven Design
           </td>
       </tr>      
       <tr>
