@@ -112,7 +112,7 @@
 
 <!-- Improvements Section -->
 <div align="center">
-   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;Improving!</h1>
+   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;'To Learn' List!</h1>
 </div>
 
 <img align="right" width="475px" height="350px" alt="lo-fi" src="./imgs/learning.gif">
