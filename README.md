@@ -136,7 +136,7 @@
       </tr>
       <tr>
           <td>
-              👉 PostgreSQL
+              👉 WebAssembly
           </td>
       </tr>
       <tr>
