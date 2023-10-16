@@ -1,5 +1,5 @@
 
-<a href="https://www.sowodev.com" target="_blank">
+<a target="_blank" href="https://www.sowodev.com">
 
 ![Alt text](imgs/sowodev-logo.webp)
 
