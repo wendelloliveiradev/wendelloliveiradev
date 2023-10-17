@@ -117,7 +117,7 @@
 
 <!-- Improvements Section -->
 <div align="center">
-   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;'To Learn' List!</h1>
+   <h1><img width="40px" alt="hi" src="./imgs/rocket.gif" />&nbsp;'To Improve' List!</h1>
 </div>
 
 <img align="right" width="475px" height="350px" alt="lo-fi" src="./imgs/learning.gif">
@@ -158,7 +158,12 @@
           <td>
               👉 Networking
           </td>
-      </tr>           
+      </tr>
+      <tr>
+          <td>
+              👉 Automation & Scripting
+          </td>
+      </tr>            
       <tr>
           <td>
              👉 TDD - Test-Driven Development
