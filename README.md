@@ -141,6 +141,11 @@
       </tr>
       <tr>
           <td>
+              👉 Redis
+          </td>
+      </tr>      
+      <tr>
+          <td>
               👉 WebAssembly
           </td>
       </tr>
