@@ -178,7 +178,12 @@
           <td>
              👉 DDD - Domain-Driven Design
           </td>
-      </tr>      
+      </tr>   
+      <tr>
+          <td>
+             👉 EDA - Event-Driven Architecture
+          </td>
+      </tr>           
       <tr>
           <td>
               👉 Clean Architecture
