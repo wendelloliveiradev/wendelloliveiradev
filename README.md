@@ -78,7 +78,7 @@
       </tr>  
       <tr>
           <td width="60">
-               <div align="center"><img align="center" alt="postgre" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgreSQL</div>
+               <div align="center"><img align="center" alt="postgre" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />Postgre</div>
           </td>           
           <td width="60">
                <div align="center"><img align="center" alt="mongodb" width="50" height="50" src="https://skillicons.dev/icons?i=mongo" />MongoDB</div>
