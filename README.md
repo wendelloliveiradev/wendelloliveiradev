@@ -75,8 +75,11 @@
           <td width="60">
                <div align="center"><img align="center" alt="mysql" width="50" height="50" src="https://techstack-generator.vercel.app/mysql-icon.svg" />MySQL</div>
           </td>                                
-      </tr>
+      </tr>  
       <tr>
+          <td width="60">
+               <div align="center"><img align="center" alt="postgre" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgreSQL</div>
+          </td>           
           <td width="60">
                <div align="center"><img align="center" alt="mongodb" width="50" height="50" src="https://skillicons.dev/icons?i=mongo" />MongoDB</div>
           </td>     
@@ -88,12 +91,12 @@
           </td>                      
           <td width="60">
                <div align="center"><img align="center" alt="java" width="50" height="50" src="https://techstack-generator.vercel.app/java-icon.svg" />Java</div>
-          </td>
+          </td> 
+      </tr>
+      <tr>
           <td width="60">
                <div align="center"><img align="center" alt="restapi" width="50" height="50" src="https://techstack-generator.vercel.app/restapi-icon.svg" />RESTApi</div>
-          </td>                 
-      </tr>
-      <tr>         
+          </td>                
           <td width="60">
                <div align="center"><img align="center" alt="typeorm" width="50" height="50" src="./imgs/typeorm.svg" />TypeORM</div>
           </td>          
@@ -105,10 +108,7 @@
           </td>            
           <td width="60">
                <div align="center"><img align="center" alt="figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Figma</div>
-          </td>
-          <td width="60">
-               <div align="center"><img align="center" alt="prettier" width="50" height="50" src="https://techstack-generator.vercel.app/prettier-icon.svg" />Prettier</div>
-          </td>                                  
+          </td>                     
       </tr>      
    </table>
 </div>
