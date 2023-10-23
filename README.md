@@ -196,6 +196,11 @@
       </tr>
       <tr>
           <td>
+              👉 CQRS
+          </td>
+      </tr>
+      <tr>
+          <td>
               👉 Cloud Services (GCP)
           </td>
       </tr>
