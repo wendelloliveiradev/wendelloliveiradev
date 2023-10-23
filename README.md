@@ -126,6 +126,11 @@
    <table>
       <tr>
           <td>
+              👉 WebSockets
+          </td>
+      </tr>
+      <tr>
+          <td>
               👉 GraphQL / tRPC / gRPC
           </td>
       </tr>
