@@ -221,19 +221,24 @@
       </tr>
       <tr>
           <td>
-              👉 A pure functional Programming Language ❤️
+              👉 Elixir Programming Language ⚡
           </td>
       </tr>
       <tr>
           <td>
-              👉 Deepen my knowledge in Machine Learning 🦾
+              👉 Machine Learning 🦾
           </td>
       </tr>
       <tr>
           <td>
-              👉 Intersection between Machine Learning 🦾,<br> Quantum Computing 🧠 and Cybersecurity ⚔️
+              👉 Quantum Computing 🧠
           </td>
-      </tr>   
+      </tr>
+      <tr>
+          <td>
+              👉 Cybersecurity ⚔️
+          </td>
+      </tr>    
    </table>
 </div>
 
