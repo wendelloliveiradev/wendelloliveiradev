@@ -27,16 +27,16 @@
    <table>
       <tr>
           <td width="60">
-               <div align="center"><img align="center" alt="next" width="50" height="50" src="https://skillicons.dev/icons?i=next" />Next</div>
+               <div align="center"><img align="center" alt="next" width="50" height="50" src="https://skillicons.dev/icons?i=next" />Next.js</div>
           </td>          
           <td width="60">
-               <div align="center"><img align="center" alt="react" width="50" height="50" src="https://techstack-generator.vercel.app/react-icon.svg" />React</div>
+               <div align="center"><img align="center" alt="react" width="50" height="50" src="https://techstack-generator.vercel.app/react-icon.svg" />React.js</div>
           </td>
           <td width="60">
-               <div align="center"><img align="center" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />Nest</div>
+               <div align="center"><img align="center" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />Nest.js</div>
           </td>
           <td width="60">
-               <div align="center"><img align="center" alt="node" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />NodeJS</div>
+               <div align="center"><img align="center" alt="node" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</div>
           </td>
           <td width="60">
                <div align="center"><img align="center" alt="docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg" />Docker</div>
