@@ -1,4 +1,3 @@
-
 <a target="_blank" href="https://www.sowodev.com">
 
 ![Alt text](imgs/sowodev-logo.webp)
@@ -146,16 +145,6 @@
       </tr>
       <tr>
           <td>
-              👉 Redis
-          </td>
-      </tr>      
-      <tr>
-          <td>
-              👉 WebAssembly
-          </td>
-      </tr>
-      <tr>
-          <td>
               👉 Serverless / Terraform / Ansible
           </td>
       </tr>
@@ -166,24 +155,9 @@
       </tr> 
       <tr>
           <td>
-              👉 Networking
+              👉 Computer Networks
           </td>
       </tr>
-      <tr>
-          <td>
-              👉 Automation & Scripting
-          </td>
-      </tr>            
-      <tr>
-          <td>
-             👉 TDD - Test-Driven Development
-          </td>
-      </tr>
-      <tr>
-          <td>
-             👉 DDD - Domain-Driven Design
-          </td>
-      </tr>   
       <tr>
           <td>
              👉 EDA - Event-Driven Architecture
@@ -192,16 +166,6 @@
       <tr>
           <td>
               👉 Clean Architecture
-          </td>
-      </tr>
-      <tr>
-          <td>
-              👉 CQRS
-          </td>
-      </tr>
-      <tr>
-          <td>
-              👉 Cloud Services (GCP)
           </td>
       </tr>
       <tr>
@@ -221,17 +185,7 @@
       </tr>
       <tr>
           <td>
-              👉 Elixir Programming Language ⚡
-          </td>
-      </tr>
-      <tr>
-          <td>
               👉 Machine Learning 🦾
-          </td>
-      </tr>
-      <tr>
-          <td>
-              👉 Quantum Computing 🧠
           </td>
       </tr>
       <tr>
