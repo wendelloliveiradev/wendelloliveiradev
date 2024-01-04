@@ -214,4 +214,8 @@
    <a href="mailto:wendelloliveirasud@gmail.com">
        <img alt="lo-fi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
+   <br>
+   <a href="https://twitter.com/WendellOSilva">
+       <img alt="lo-fi" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+   </a>
 </p>
