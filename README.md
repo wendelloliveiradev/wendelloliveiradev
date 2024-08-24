@@ -1,6 +1,6 @@
-<a target="_blank" href="https://www.sowodev.com">
+<a target="_blank" href="https://www.sowdev.com.br">
 
-![Alt text](imgs/sowodev-logo.webp)
+![Alt text](imgs/banner-github.png)
 
 </a>
 
@@ -11,7 +11,7 @@
 </div>
 
 <img align="right" style="width: 140px; height: 130px" alt="hi" src="./imgs/about.gif" />
-<p align="left">I am a Brazilian Software Engineer based in São Paulo - Brazil. With over 3 years of experience as a Full-stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building high-quality software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying state-of-the-art web applications.</p>
+<p align="left">I am a Brazilian Software Engineer based in São Paulo - Brazil. With over 5 years of experience as a Full-stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building high-quality software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying state-of-the-art web applications.</p>
 
 <br>
 
@@ -32,7 +32,7 @@
                <div align="center"><img align="center" alt="react" width="50" height="50" src="https://techstack-generator.vercel.app/react-icon.svg" />React.js</div>
           </td>
           <td width="60">
-               <div align="center"><img align="center" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />Nest.js</div>
+               <div align="center"><img align="center" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />Nest.js</div>
           </td>
           <td width="60">
                <div align="center"><img align="center" alt="node" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</div>
