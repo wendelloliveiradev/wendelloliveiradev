@@ -11,7 +11,7 @@
 </div>
 
 <img align="right" style="width: 140px; height: 130px" alt="hi" src="./imgs/about.gif" />
-<p align="left">I am a Brazilian Software Engineer based in São Paulo - Brazil. With over 5 years of experience as a Full-stack Web Developer. I am completely passionate about software development.  I have been dedicating the past few years of my life mastering the art of building high-quality software, so that I can make a huge difference wherever I go, guiding those who I work with to the highest standards when deploying state-of-the-art web applications.</p>
+<p align="left">Brazilian Software Engineer with 5+ years of Full-Stack Web Development expertise. Driven by a deep passion for crafting high-quality software, I've dedicated my career to mastering the art of building robust, state-of-the-art web applications. My mission is to innovate relentlessly, solve complex problems with elegant code, and inspire fellow developers to reach new heights in their craft, creating technology that leaves a lasting impact on the world.</p>
 
 <br>
 
@@ -29,24 +29,18 @@
                <div align="center"><img align="center" alt="next" width="50" height="50" src="https://skillicons.dev/icons?i=next" />Next.js</div>
           </td>          
           <td width="60">
-               <div align="center"><img align="center" alt="react" width="50" height="50" src="https://techstack-generator.vercel.app/react-icon.svg" />React.js</div>
-          </td>
-          <td width="60">
                <div align="center"><img align="center" alt="nest" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />Nest.js</div>
           </td>
           <td width="60">
-               <div align="center"><img align="center" alt="node" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</div>
+               <div align="center"><img align="center" alt="docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg" />Docker</div>
           </td>
           <td width="60">
-               <div align="center"><img align="center" alt="docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg" />Docker</div>
-          </td>   
+               <div align="center"><img align="center" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />TypeScript</div>
+          </td>    
       </tr>   
       <tr>
           <td width="60">
                <div align="center"><img align="center" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />Linux</div>
-          </td>
-          <td width="60">
-               <div align="center"><img align="center" alt="git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br>Git</div>
           </td>
           <td width="60">
                <div align="center"><img align="center" alt="github" width="50" height="50" src="https://techstack-generator.vercel.app/github-icon.svg" />Github</div>
@@ -58,10 +52,7 @@
                <div align="center"><img align="center" alt="postman" width="50" height="50" src="https://skillicons.dev/icons?i=postman" />Postman</div>
           </td>             
       </tr>
-      <tr>
-          <td width="60">
-               <div align="center"><img align="center" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />TypeScript</div>
-          </td>      
+      <tr>     
           <td width="60">
                <div align="center"><img align="center" alt="javascript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />JavaScript</div>
           </td>
@@ -77,37 +68,25 @@
       </tr>  
       <tr>
           <td width="60">
-               <div align="center"><img align="center" alt="postgre" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />Postgre</div>
-          </td>           
-          <td width="60">
-               <div align="center"><img align="center" alt="mongodb" width="50" height="50" src="https://skillicons.dev/icons?i=mongo" />MongoDB</div>
-          </td>     
-          <td width="60">
-               <div align="center"><img align="center" alt="cpp" width="50" height="50" src="https://techstack-generator.vercel.app/cpp-icon.svg" />C++</div>
-          </td>           
-          <td width="60">
-               <div align="center"><img align="center" alt="python" width="50" height="50" src="https://techstack-generator.vercel.app/python-icon.svg" />Python</div>
-          </td>                      
-          <td width="60">
-               <div align="center"><img align="center" alt="java" width="50" height="50" src="https://techstack-generator.vercel.app/java-icon.svg" />Java</div>
-          </td> 
-      </tr>
-      <tr>
+               <div align="center"><img align="center" alt="postgre" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgreSQL</div>
+          </td>
           <td width="60">
                <div align="center"><img align="center" alt="restapi" width="50" height="50" src="https://techstack-generator.vercel.app/restapi-icon.svg" />RESTApi</div>
-          </td>                
-          <td width="60">
-               <div align="center"><img align="center" alt="typeorm" width="50" height="50" src="./imgs/typeorm.svg" />TypeORM</div>
-          </td>          
-          <td width="60">
-               <div align="center"><img align="center" alt="vite" width="50" height="50" src="https://skillicons.dev/icons?i=vite" />Vite</div>
-          </td> 
+          </td>    
           <td width="60">
                <div align="center"><img align="center" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />VSCode</div>
           </td>            
           <td width="60">
                <div align="center"><img align="center" alt="figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Figma</div>
-          </td>                     
+          </td>                   
+      </tr>
+      <tr>
+          <td width="60">
+               <div align="center"><img align="center" alt="typeorm" width="50" height="50" src="./imgs/typeorm.svg" />TypeORM</div>
+          </td>          
+          <td width="60">
+               <div align="center"><img align="center" alt="vite" width="50" height="50" src="https://skillicons.dev/icons?i=vite" />Vite</div>
+          </td>                    
       </tr>      
    </table>
 </div>
