@@ -68,10 +68,12 @@
       </tr>  
       <tr>
           <td width="60">
-               <div align="center"><img align="center" alt="css" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />Prisma</div>
+               <div align="center"><img align="center" alt="css" width="50" height="50" src="./imgs/shopify.svg" />Shopify</div>
           </td>
           <td width="60">
-               <div align="center"><img align="center" alt="restapi" width="50" height="50" src="https://techstack-generator.vercel.app/restapi-icon.svg" />RESTApi</div>
+               <div align="center">
+            <img align="center" alt="css" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+          Supabase</div>
           </td>    
           <td width="60">
                <div align="center"><img align="center" alt="vscode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />VSCode</div>
