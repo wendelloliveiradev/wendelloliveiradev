@@ -110,7 +110,7 @@
 <img align="left" width="275px" alt="lo-fi" src="./imgs/jujutsu-kaisen.gif" />
 
 <p>
-   <a href="https://twitter.com/WendellOSilva">
+   <a href="https://x.com/sow_wendell">
        <img alt="lo-fi" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
    </a>
    <br>
