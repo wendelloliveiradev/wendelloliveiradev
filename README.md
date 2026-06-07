@@ -1,6 +1,8 @@
 <!-- Hello Section -->
 <div align="center">
-<h2 align='center'><img alt='pica' src='./imgs/hello-pica.gif' width='30px' />&nbsp;Hey There, Brothers and Systers!
+<h2 align='center'>
+&nbsp;Hey There, Brothers and Systers!
+<img alt='pica' src='./imgs/hello-pica.gif' width='30px' />
 </h2>
 </div>
 
