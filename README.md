@@ -18,4 +18,4 @@ I don't know either, but, some things that makes part of me:
 - I have a "little bit" of experience in Software Development.
 - I'm trying to surf the AI wave like everyone else.
 - I speak a "little bit" of English (my main is Portuguese :D).
-- I have 8.31\*10⁷⁷⁷ thoughts per second.
+- I have 8.31\*10⁷⁷⁷ thoughts per second (yes, a "little bit" anxious).
